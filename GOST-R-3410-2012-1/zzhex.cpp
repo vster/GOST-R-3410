@@ -1,6 +1,7 @@
 #include <NTL/ZZ.h>
 #include <iomanip>
 #include <sstream>
+#include <string.h>
 #include "zzhex.h"
 
 int IntFromChar(char x)
