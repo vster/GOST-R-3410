@@ -20,4 +20,4 @@ INCLUDEPATH += \
     /usr/local/include
 
 LIBS += \
-    -L/usr/local/lib -lntl
+    -L/usr/local/lib -lntl -lgmp
