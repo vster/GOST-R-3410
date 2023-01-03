@@ -1,9 +1,10 @@
 #include <NTL/ZZ.h>
+#define byte unsigned char
 
 using namespace std;
 using namespace NTL;
 
-typedef unsigned char byte;
+// typedef unsigned char byte;
 const long MAXB = 1000;
 
 int IntFromChar(char x);
